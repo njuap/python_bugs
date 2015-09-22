@@ -10,7 +10,7 @@ priority,low,
 root_cause,semantic,
 component,core,
 impact,incorrect functionality,
-fix_difficulty,moderate,
+fix_difficulty,trivial,
 lables,scipy.optimize,
 affected_files,scipy\optimize\_differentialevolution.py,scipy\cluster\hierarchy.py
 description,DOC: made clearer when the jac attribute is created. Fixes #5121,
